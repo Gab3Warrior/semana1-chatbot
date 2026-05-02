@@ -1,0 +1,4 @@
+nombre: Gab
+ciudad: CDMX
+skills: ['Python', 'IA', 'Crypto']
+meta: independencia financiera

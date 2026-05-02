@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "María",
+    "problema": "Computadora no enciende",
+    "urgencia": "alta",
+    "accion": "Revisar conexión de energía, intentar reinicio forzado, contactar soporte técnico inmediatamente"
+  },
+  {
+    "nombre": "Cliente",
+    "problema": "Consulta sobre precio del paquete premium",
+    "urgencia": "baja",
+    "accion": "Proporcionar información de precios del paquete premium"
+  },
+  {
+    "nombre": "Carlos",
+    "problema": "Sin conexión a internet por 3 días, trabaja desde casa",
+    "urgencia": "alta",
+    "accion": "Contactar proveedor de internet, verificar estado de servicio, considerar conexión móvil como alternativa inmediata"
+  }
+]
