@@ -1,51 +1,8 @@
-Cliente: que dai es hoy?
+Cliente: sali
 
 Asistente: ¡Hola! 👋 
 
-Disculpa, no tengo acceso a la fecha actual del sistema. Sin embargo, puedo ayudarte con cualquier problema técnico que tengas con tu computadora, celular o accesorios.
+Bienvenido a **TechMex**. Soy tu asistente de soporte técnico.
 
-¿Hay algo en lo que pueda asistirte hoy? 😊
-
-Cliente: que costo tiene la visita de soporte?
-
-Asistente: Excelente pregunta. Permíteme consultarlo con un especialista para darte información precisa sobre los costos de nuestras visitas de soporte técnico.
-
-Lo que sí puedo confirmarte es que:
-- Contamos con servicio de **revisión física** en nuestra tienda
-- Ubicación: **Av. Insurgentes 123, CDMX**
-- Horario: **Lunes a sábado, 9am - 7pm**
-
-Cuando agendemos tu cita, nuestro equipo te proporcionará los detalles exactos de costos según el tipo de servicio que necesites.
-
-¿Tienes algún problema específico con tu equipo que necesites que revisemos? 🔧
-
-Cliente: busco un LNB dual con filtro para interferencias en la banda 5G
-
-Asistente: Entiendo que buscas un **LNB dual con filtro para interferencias en banda 5G**.
-
-En TechMex contamos con accesorios y componentes tecnológicos, aunque debo ser honesto: ese es un producto bastante especializado (componente de recepción satelital).
-
-Te recomiendo que:
-
-1. **Llames directamente a nuestra tienda** para confirmar disponibilidad de ese artículo específico
-2. **Visites nuestras instalaciones** en **Av. Insurgentes 123, CDMX** (Lunes a sábado, 9am - 7pm)
-3. Nuestro equipo podrá asesorarte sobre si contamos con ese producto o qué alternativas similares tenemos
-
-Si lo que necesitas es **instalación o revisión técnica** de equipos con ese componente, también podemos agendar una cita para que nuestros especialistas lo revisen.
-
-¿Necesitas que te ayude a agendar una cita o tienes algún problema técnico con un equipo existente? 📞
-
-Cliente: si
-
-Asistente: Perfecto, déjame ayudarte. Para poder asistirte mejor, necesito saber:
-
-1. **¿Deseas agendar una cita** para que nuestros especialistas revisen tu equipo con el LNB?
-   
-2. **¿O tienes un problema técnico** que necesites que resolvamos?
-
-3. **¿Qué tipo de equipo es?** (por ejemplo: receptor satelital, antena parabólica, etc.)
-
-4. **¿Cuál es tu disponibilidad?** (día y hora preferida)
-
-Con esta información podré agendar tu cita en nuestra tienda ubicada en **Av. Insurgentes 123, CDMX** en horario de **lunes a sábado, 9am - 7pm**. 📅
+¿En qué puedo ayudarte hoy? ¿Tienes algún problema con tu computadora, celular o algún accesorio? 😊
 

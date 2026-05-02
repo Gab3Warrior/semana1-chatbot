@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 import anthropic
 import os
 
@@ -33,7 +36,6 @@ while True:
     user_input = input("Cliente: ")
     if user_input.lower() == "salir":
         print("\nAsistente: ¡Gracias por contactarnos! Que tenga buen día. 😊")
-        # Guardar conversación
         with open("conversacion.txt", "w") as f:
             for msg in historial:
                 rol = "Cliente" if msg["role"] == "user" else "Asistente"
